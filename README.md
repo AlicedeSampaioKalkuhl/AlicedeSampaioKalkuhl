@@ -14,4 +14,5 @@
 - anaylsis and modelling of phenotypic plasticity and behaviour in Daphnia magna in response to toxins (started during my undegrad) 
 - mathematical modelling of haemorrhagic fever transmission (started during my masters) 
 - evolution of filovirus endogenous elements (started during my PhD, now a collboration)
-- palaeontology side projects (TBD) 
+- palaeontology side projects (started during my undergrad, interrupted by brexit)
+- quantum biology modelling (started during my undergrad)  
