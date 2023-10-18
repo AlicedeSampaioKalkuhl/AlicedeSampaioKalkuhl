@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-- 🔭 I’m a Genetics student working on gene duplications with a focus on Cnidarians. 
+- 🔭 I'm an author and epidemiologist with an interest in how disease tranmission and population dynamics interact over long time periods
 - 🌱 I’m currently learning how to get better at using Bioconductor packages.
-- 👯 I’m looking to collaborate on epidemiological models (I did my master thesis on an SEIR model)
+- 👯 I’m looking for funding for palaeoepidemiology research.
 - 🤔 I’m looking for help with tidying code.
 - 💬 Ask me about: mathematical modelling and tidyverse plots
 - 📫 How to reach me: alice@quantumlandbooks.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I write fiction for fun. My books are [here](https://quantumlandbooks.com/books)
+- ⚡ Fun fact: I play rugby and am mostly a scrum-half
 
 ### other research I'm involved in
 - anaylsis and modelling of phenotypic plasticity and behaviour in Daphnia magna in response to toxins (started during my undegrad) 
